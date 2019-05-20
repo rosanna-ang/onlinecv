@@ -20,7 +20,7 @@ body {
     line-height : 1.8em;
     color       : #3d3d50;
     font-weight : 300;
-    background  : url("../img/background-color.jpeg") fixed;
+    background  : url("../img/background-color2.jpg") fixed;
     }
 
 /* --------------------------------------
@@ -640,4 +640,3 @@ button:focus,
   #82b1c4	(130,177,196)
   #373e5b	(55,62,91)
   */
-  
