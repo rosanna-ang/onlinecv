@@ -423,12 +423,13 @@ button:focus,
     height    : auto;
     display   : block;
     max-width : 100%;
-    width:100%;
-    height:245px;
+    width: auto;
+    height: auto;
     overflow:hidden;
     margin-left: auto;
     margin-right: auto;
     }
+
 
 
 
@@ -640,3 +641,7 @@ button:focus,
   #82b1c4	(130,177,196)
   #373e5b	(55,62,91)
   */
+
+  .print-only {
+      display: none;
+      }
